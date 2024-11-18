@@ -1,0 +1,10 @@
+body{
+    background-image: url(../assets/css.png);
+    background-size: 100%;
+}
+nav{
+    color: white;
+    font-family: Orbitron, sans-serif;
+    font-size: 30px;
+    text-align: left;
+}
